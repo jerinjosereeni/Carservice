@@ -108,12 +108,11 @@ body{
   background:#f8f9fa;
 }
 
-.text-center{
-  padding-top:50px;
 
 #services h2{
   color:  #e60000;
   padding-bottom: 30px;
+  padding-top:100px;
 }
 
 .service-img{
